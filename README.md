@@ -26,7 +26,7 @@ Here's a GitHub README file template for your repository structure:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/setup-server-for-web-development.git
+   git clone https://github.com/DegreatArizona/setup-server-for-web-development.git
    cd setup-server-for-web-development
    ```
 
