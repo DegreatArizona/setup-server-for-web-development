@@ -64,7 +64,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+This project is licensed under the GUI License - see the [LICENSE](LICENSE) file for details.
 
-Make sure to replace `"https://github.com/yourusername/setup-server-for-web-development.git"` with your actual GitHub repository URL.
