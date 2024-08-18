@@ -19,6 +19,7 @@ Here's a GitHub README file template for your repository structure:
 
 - Apache HTTP Server
 - PHP
+- Mysql
 - Bash (for running the shell script)
 
 ### Installation
@@ -47,6 +48,7 @@ Here's a GitHub README file template for your repository structure:
    - `httpd.conf`
    - `httpd-vhosts.conf`
    - `config.inc.php`
+   - `index.php`
 
    Restart the Apache server to apply the changes.
 
