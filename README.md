@@ -51,7 +51,8 @@ Here's a GitHub README file template for your repository structure:
    Restart the Apache server to apply the changes.
 
    ```bash
-   sudo systemctl restart apache2
+   apachectl start
+   mysqld --skip-grant --tables
    ```
 
 ### Usage
