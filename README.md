@@ -35,7 +35,7 @@ Here's a GitHub README file template for your repository structure:
    Execute the `setup.sh` script to set up the Apache server and PHP configuration.
 
    ```bash
-   ./setup.sh
+   bash setup.sh
    ```
 
    The script will automatically configure the Apache server based on the provided configuration files.
@@ -65,5 +65,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 
-This project is licensed under the GUI License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
